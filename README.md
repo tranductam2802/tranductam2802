@@ -28,8 +28,6 @@ I am a Flutter Developer from Vietnam.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-tranductam2802-red?style=flat&logo=Gmail&logoColor=white)](mailto:tranductam2802@gmail.com)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
