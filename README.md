@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Flutter Developer from Vietnam.
 
@@ -54,6 +54,8 @@ I am a Flutter Developer from Vietnam.
 ---
 
 ### :fire: My Stats :
+
+[![Roadmap.SH](https://api.roadmap.sh/v1-badge/tall/646ebb8cf4193ae10b46c75d?variant=dark)](https://roadmap.sh)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tranductam2802&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
